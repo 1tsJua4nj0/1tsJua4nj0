@@ -13,7 +13,7 @@
 
 
 <h1> 🛠️Skills</h1>
-<h2>Programming Languages</h2>
+<h2> 🐍 Programming Languages</h2>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
@@ -24,18 +24,14 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-<h2>Software</h2>
+<h2> 🧑‍💻 Software</h2>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 
-<h1> About me </h1>
+<h1> 🍵 About me </h1>
 
-- 👋 Hi, I’m @1tsJua4nj0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hello, I'm @1tsJu4nj0, a passionate software developer with a keen interest in Cybersecurity and Backend Development. I love exploring new solutions and challenges in the world of software development. My focus is on becoming a Cybersecurity Developer. By now, I'm learning Java and Python, and doing some projects with them. I'm always seeking opportunities to learn and enhance my skills. Welcome to my code corner!
 
 <!---
 1tsJua4nj0/1tsJua4nj0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
